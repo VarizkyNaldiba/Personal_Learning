@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(rgb(9, 166, 206), rgb(165, 181, 211), turquoise);
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.img-profile {  
+    width: 150px;
+}
+.profile h2 {
+    color: white;
+    font-weight: bold;
+}
+.profile h5 {
+    color:white;
+    font-weight: bold;
+
+}
+
+.biodata {
+    margin-top: 100px;
+}
