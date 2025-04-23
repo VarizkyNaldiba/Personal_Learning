@@ -31,4 +31,4 @@ print("The multiplication of",first,"and",second,"is",Kali)
 Kurang = int(first) - int(second)
 print("The subtraction of",first,"and",second,"is",Kurang)
 
-# 
+# s
