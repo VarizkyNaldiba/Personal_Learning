@@ -39,9 +39,10 @@ first   = input("Enter first number:")
 second  = input("Enter second number:")
 int(first)
 int(second)
-def switch_case_example(option):
+def switch_case_example(first, second, option):
     switch = {
         1: "Jumlah",
+        
         2: "Kurang",
         3: "Kali",
         4: "Bagi",
